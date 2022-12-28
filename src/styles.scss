@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+// Configuration
+@import "bootstrap/scss/bootstrap";
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/maps";
+@import "bootstrap/scss/mixins";
+@import "bootstrap/scss/utilities";
+@import "bootstrap/scss/_variables-dark.scss";
